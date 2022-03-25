@@ -8,6 +8,8 @@ title: PROJECT NAME - TEAM NAME
 PROJECT NAME - TEAM NAME 
 (you can remove this part once read)
 
+[Live Demo]()/[GitHub Repository]()
+
 # ℹ️ Project information
 
 ## 🔥 Elevator Pitch
@@ -24,6 +26,8 @@ _Please create a pitch for your project. Please do not exceed 500 words._
 
 ## ❤️ How did you built it?
 
+
 ## 🤔 What problems did you ran into? How did resolve it?
+
 
 ## 🚀 Future changes and improvements
