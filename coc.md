@@ -4,12 +4,6 @@ This code of conduct applies to the entirety of the Hackathon including events t
 
 This is applicable to all who are involved in the Hackathon, including but not limited to sponsors and partners.
 
-## No plagiarism or re-using of past work
-
-Any project submitted should be prepared in the duration of the hackathon. If anyone is found to have re-used code or re-submitted a project made earlier for any purpose, it would lead to immediate disqualification.
-
-The organizing committee holds the right to disqualify any candidate/team on these grounds, without prior notice of any kind.
-
 ## Safe space for all
 
 Hackathons hosted by Scaler Academy are dedicated to providing a safe and comfortable environment for everyone. No discrimination, on the basis of the following, shall be tolerated:
